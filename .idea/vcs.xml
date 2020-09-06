@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/01-BT-Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-BT-trang-dang-ky-nguoi-dung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07-TH-thuc-hanh-doi-ten-bien-tach-hang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CaseStudy1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/case-study-module1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-json-php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-shape" vcs="Git" />
+  </component>
+</project>

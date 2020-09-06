@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41077b86-c0c9-425f-817b-703bbb0faffc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/07-TH-refactoring-tach-bien/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/01-BT-Calculator" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/composer" />
+      <path value="$PROJECT_DIR$/07-TH-refactoring-tach-bien/vendor/phpdocumentor/type-resolver" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gLxNHdMsIjqr3dgBmGDeRiARW0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41077b86-c0c9-425f-817b-703bbb0faffc" name="Default Changelist" comment="" />
+      <created>1597907632135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597907632135</updated>
+      <workItem from="1597907633569" duration="938000" />
+      <workItem from="1597908678987" duration="3311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="153" key="#Web_Browsers" timestamp="1597908140702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1597908140702" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597908536200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597908536200" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1597908137764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597908137764" />
+    <state x="771" y="90" key="NewPhpClassDialog" timestamp="1597909198527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="771" y="90" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1597909198527" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1597911232321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1597911232321" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1597907899640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597907899640" />
+  </component>
+</project>
